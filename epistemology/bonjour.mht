@@ -1,0 +1,1151 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01C9A0A1.ACA6EF50"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Microsoft Internet Explorer.
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:p=3D"urn:schemas-microsoft-com:office:powerpoint"
+xmlns:oa=3D"urn:schemas-microsoft-com:office:activation"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DPowerPoint.Slide>
+<meta name=3DGenerator content=3D"Microsoft PowerPoint 11">
+<link rel=3DFile-List href=3D"bonjour_files/filelist.xml">
+<link rel=3DPreview href=3D"bonjour_files/preview.wmf">
+<link rel=3DEdit-Time-Data href=3D"bonjour_files/editdata.mso">
+<title>Slide 1</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>IRT-CS</o:Author>
+  <o:LastAuthor>IRT-CS</o:LastAuthor>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>34</o:TotalTime>
+  <o:Created>2009-03-09T14:52:53Z</o:Created>
+  <o:LastSaved>2009-03-09T15:27:40Z</o:LastSaved>
+  <o:Words>21</o:Words>
+  <o:PresentationFormat>On-screen Show</o:PresentationFormat>
+  <o:Company>UST</o:Company>
+  <o:Bytes>6059</o:Bytes>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:Slides>1</o:Slides>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:PixelsPerInch>80</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DPresentation-XML href=3D"bonjour_files/pres.xml">
+<meta name=3DDescription content=3D"3/9/2009">
+<meta http-equiv=3Dexpires content=3D0>
+<![if !ppt]><script>
+<!--
+	var ver =3D 0, appVer =3D navigator.appVersion, msie =3D appVer.indexOf( "=
+MSIE " )
+	var msieWin31 =3D (appVer.indexOf( "Windows 3.1" ) >=3D 0), isMac =3D (app=
+Ver.indexOf("Macintosh") >=3D 0)
+	if( msie >=3D 0 )
+		ver =3D parseFloat( appVer.substring( msie+5, appVer.indexOf ( ";", msie =
+) ) )
+	else
+		ver =3D parseInt( appVer )
+
+	browserSupported=3D0
+	if( !isMac && ver >=3D 4 && msie >=3D 0 ) {
+		browserSupported=3D1
+		window.location.replace( 'bonjour_files/slide0001.htm'+document.location.=
+hash )
+	}	=09
+//-->
+</script><![endif]>
+</head>
+
+<body>
+<script><!--
+
+if( browserSupported )
+	document.writeln('<div style=3D"visibility:hidden">');
+
+//--></script><font face=3DArial size=3D2><b>
+
+<p>This presentation contains content that your browser may not be able to =
+show
+properly. This presentation was optimized for more recent versions of Micro=
+soft
+Internet Explorer.</p>
+
+<p>If you would like to proceed anyway, click <a
+href=3D"bonjour_files/slide0001.htm">here</a>.</p>
+
+</b></font><script><!--
+
+if( browserSupported )
+	document.writeln('</div>');
+
+//--></script>
+</body>
+
+</html>
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/master03.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:p=3D"urn:schemas-microsoft-com:office:powerpoint"
+xmlns:oa=3D"urn:schemas-microsoft-com:office:activation"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DPowerPoint.Slide>
+<meta name=3DGenerator content=3D"Microsoft PowerPoint 11">
+<link id=3DMain-File rel=3DMain-File href=3D"../bonjour.htm">
+<link rel=3DPreview href=3Dpreview.wmf>
+<![if IE]>
+<base href=3D"file:///C:\6516CB12\bonjour_files\master03.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<meta name=3DRobots content=3DNoIndex>
+<link rel=3DStylesheet href=3D"master03_stylesheet.css">
+<![if !ppt]><script src=3Dscript.js></script>
+<script>
+<!--
+	parent.location.href=3Ddocument.all.item("Main-File").href
+//-->
+</script>
+<![endif]>
+</head>
+
+<body>
+
+<div v:shape=3D"_x0000_s1026" class=3DT>Click to edit Master title style</d=
+iv>
+
+<div v:shape=3D"_x0000_s1027">
+
+<div class=3DB>Click to edit Master text styles&#13;</div>
+
+<div class=3DB1>Second level&#13;</div>
+
+<div class=3DB2>Third level&#13;</div>
+
+<div class=3DB3>Fourth level&#13;</div>
+
+<div class=3DB4>Fifth level</div>
+
+</div>
+
+<div v:shape=3D"_x0000_s1028" class=3DO><span lang=3DEN-US style=3D'font-si=
+ze:78%;
+mso-field-code:meta0'>&#8249;date/time&#8250;</span><span style=3D'font-siz=
+e:
+78%;mso-special-format:lastCR'>&#13;</span></div>
+
+<div v:shape=3D"_x0000_s1029" class=3DO style=3D'text-align:center'><span
+style=3D'font-size:78%;mso-field-code:meta15'>&#8249;footer&#8250;</span><s=
+pan
+style=3D'font-size:78%;mso-special-format:lastCR'>&#13;</span></div>
+
+<div v:shape=3D"_x0000_s1030" class=3DO style=3D'text-align:right'><span
+style=3D'font-size:78%;mso-field-code:meta16'>&#8249;#&#8250;</span><span
+style=3D'font-size:78%;mso-special-format:lastCR'>&#13;</span></div>
+
+</body>
+
+</html>
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/master03.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:v=3D"urn:schemas-microsoft-com:vml"
+ xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+ xmlns:p=3D"urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa=3D"urn:schemas-microsoft-com:office:activation">
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout><p:colorscheme
+  colors=3D"#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00=
+"/>
+ <v:background id=3D"_x0000_s1025" o:bwmode=3D"white" fillcolor=3D"white [0=
+]">
+  <v:fill color2=3D"#339 [5]"/>
+ </v:background><p:shaperange id=3D"_x0000_s1026">
+  <v:shapetype id=3D"_x0000_s1026" style=3D'position:absolute;left:36pt;top=
+:21.625pt;
+   width:9in;height:90pt;v-text-anchor:middle' coordsize=3D"21600,21600"
+   o:master=3D"" o:spt=3D"1" path=3D"m,l,21600r21600,l21600,xe" filled=3D"f"
+   fillcolor=3D"#bbe0e3 [4]" stroked=3D"f" strokecolor=3D"black [1]">
+   <v:fill color2=3D"white [0]" o:detectmouseclick=3D"t"/>
+   <v:stroke joinstyle=3D"miter" o:forcedash=3D"t"/>
+   <v:shadow color=3D"gray [2]"/>
+   <v:path gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+   <o:lock v:ext=3D"edit" grouping=3D"t"/>
+   <p:placeholder type=3D"title"/>
+  </v:shapetype></p:shaperange>
+ <p:shaperange id=3D"_x0000_s1027">
+  <v:shapetype id=3D"_x0000_s1027" style=3D'position:absolute;left:36pt;top=
+:126pt;
+   width:9in;height:356.375pt' coordsize=3D"21600,21600" o:master=3D"" o:sp=
+t=3D"1"
+   path=3D"m,l,21600r21600,l21600,xe" filled=3D"f" fillcolor=3D"#bbe0e3 [4]"
+   stroked=3D"f" strokecolor=3D"black [1]">
+   <v:fill color2=3D"white [0]" o:detectmouseclick=3D"t"/>
+   <v:stroke joinstyle=3D"miter" o:forcedash=3D"t"/>
+   <v:shadow color=3D"gray [2]"/>
+   <v:path gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+   <o:lock v:ext=3D"edit" grouping=3D"t"/>
+   <p:placeholder type=3D"body" position=3D"1"/>
+  </v:shapetype></p:shaperange>
+ <p:shaperange id=3D"_x0000_s1028">
+  <v:shapetype id=3D"_x0000_s1028" style=3D'position:absolute;left:36pt;top=
+:491.75pt;
+   width:168pt;height:37.5pt' coordsize=3D"21600,21600" o:master=3D"" o:spt=
+=3D"1"
+   path=3D"m,l,21600r21600,l21600,xe" filled=3D"f" fillcolor=3D"#bbe0e3 [4]"
+   stroked=3D"f" strokecolor=3D"black [1]">
+   <v:fill color2=3D"white [0]" o:detectmouseclick=3D"t"/>
+   <v:stroke joinstyle=3D"miter" o:forcedash=3D"t"/>
+   <v:shadow color=3D"gray [2]"/>
+   <v:path gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+   <o:lock v:ext=3D"edit" grouping=3D"t"/>
+   <p:placeholder type=3D"dateTime" position=3D"2" size=3D"half"/>
+  </v:shapetype></p:shaperange>
+ <p:shaperange id=3D"_x0000_s1029">
+  <v:shapetype id=3D"_x0000_s1029" style=3D'position:absolute;left:246pt;to=
+p:491.75pt;
+   width:228pt;height:37.5pt' coordsize=3D"21600,21600" o:master=3D"" o:spt=
+=3D"1"
+   path=3D"m,l,21600r21600,l21600,xe" filled=3D"f" fillcolor=3D"#bbe0e3 [4]"
+   stroked=3D"f" strokecolor=3D"black [1]">
+   <v:fill color2=3D"white [0]" o:detectmouseclick=3D"t"/>
+   <v:stroke joinstyle=3D"miter" o:forcedash=3D"t"/>
+   <v:shadow color=3D"gray [2]"/>
+   <v:path gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+   <o:lock v:ext=3D"edit" grouping=3D"t"/>
+   <p:placeholder type=3D"footer" position=3D"3" size=3D"quarter"/>
+  </v:shapetype></p:shaperange>
+ <p:shaperange id=3D"_x0000_s1030">
+  <v:shapetype id=3D"_x0000_s1030" style=3D'position:absolute;left:516pt;to=
+p:491.75pt;
+   width:168pt;height:37.5pt' coordsize=3D"21600,21600" o:master=3D"" o:spt=
+=3D"1"
+   path=3D"m,l,21600r21600,l21600,xe" filled=3D"f" fillcolor=3D"#bbe0e3 [4]"
+   stroked=3D"f" strokecolor=3D"black [1]">
+   <v:fill color2=3D"white [0]" o:detectmouseclick=3D"t"/>
+   <v:stroke joinstyle=3D"miter" o:forcedash=3D"t"/>
+   <v:shadow color=3D"gray [2]"/>
+   <v:path gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+   <o:lock v:ext=3D"edit" grouping=3D"t"/>
+   <p:placeholder type=3D"slideNumber" position=3D"4" size=3D"quarter"/>
+  </v:shapetype></p:shaperange>
+</xml>
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/preview.wmf
+Content-Transfer-Encoding: base64
+Content-Type: image/x-wmf
+
+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
+BAAEAAAA8AEDAAMAAAAAAA==
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/pres.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:v=3D"urn:schemas-microsoft-com:vml"
+ xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+ xmlns:p=3D"urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa=3D"urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof=3D"screen" gridspacingx=3D"49152" gridspacingy=3D"4=
+9152">
+  <p:master id=3D"3" slidesn=3D"1C9A0C5,4EFEC250" type=3D"main" href=3D"mas=
+ter03.htm"
+   xmlhref=3D"master03.xml" template=3D"Default Design" layout=3D"title_bod=
+y"
+   slots=3D"title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors=3D"#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99c=
+c00"/>
+    <p:colorscheme
+     colors=3D"#ffffff,#000000,#969696,#000000,#fbdf53,#ff9966,#cc3300,#996=
+600"/>
+    <p:colorscheme
+     colors=3D"#ffffff,#000000,#808080,#000000,#99ccff,#ccccff,#3333cc,#af6=
+7ff"/>
+    <p:colorscheme
+     colors=3D"#def6f1,#000000,#969696,#000000,#ffffff,#8dc6ff,#0066cc,#00a=
+800"/>
+    <p:colorscheme
+     colors=3D"#ffffd9,#000000,#777777,#000000,#fffff7,#33cccc,#ff5050,#ff9=
+900"/>
+    <p:colorscheme
+     colors=3D"#008080,#ffffff,#005a58,#ffff99,#006462,#6d6fc7,#00ffff,#00f=
+f00"/>
+    <p:colorscheme
+     colors=3D"#800000,#ffffff,#5c1f00,#dfd293,#cc3300,#be7960,#ffff99,#d3a=
+219"/>
+    <p:colorscheme
+     colors=3D"#000099,#ffffff,#003366,#ccffff,#3366cc,#00b000,#66ccff,#ffe=
+701"/>
+    <p:colorscheme
+     colors=3D"#000000,#ffffff,#336699,#e3ebf1,#003399,#468a4b,#66ccff,#f0e=
+500"/>
+    <p:colorscheme
+     colors=3D"#686b5d,#ffffff,#777777,#d1d1cb,#909082,#809ea8,#ffcc66,#e9d=
+cb9"/>
+    <p:colorscheme
+     colors=3D"#666699,#ffffff,#3e3e5c,#ffffff,#60597b,#6666ff,#99ccff,#fff=
+f99"/>
+    <p:colorscheme
+     colors=3D"#523e26,#ffffff,#2d2015,#dfc08d,#8c7b70,#8f5f2f,#ccb400,#8c9=
+ea0"/>
+   </p:schemes>
+  </p:master>
+  <p:slide id=3D"1" slidesn=3D"1C9A0C5,4EFEC250" href=3D"slide0001.htm"
+   layout=3D"title_subtitle" slots=3D"centerTitle,subTitle"/>
+  <p:viewstate type=3D"slideView" restoredleft=3D"156" restoredtop=3D"946"
+   hideoutlineicons=3D"t"/>
+  <p:font name=3D"Arial" charset=3D"0" type=3D"4"/>
+  <p:headersfooters noheader=3D"t"/>
+  <p:pptdocumentsettings framecolors=3D"WhiteTextOnBlack" hideslideanimatio=
+n=3D"t"
+   browsersupport=3D"v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"2070">
+  <o:colormru v:ext=3D"edit" colors=3D"red"/>
+ </o:shapedefaults></xml>
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/slide0001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:p=3D"urn:schemas-microsoft-com:office:powerpoint"
+xmlns:oa=3D"urn:schemas-microsoft-com:office:activation"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DPowerPoint.Slide>
+<meta name=3DGenerator content=3D"Microsoft PowerPoint 11">
+<link id=3DMain-File rel=3DMain-File href=3D"../bonjour.htm">
+<link rel=3DPreview href=3Dpreview.wmf>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+p\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+v\:textbox {display:none;}
+</style>
+<![endif]-->
+<title>Slide 1</title>
+<![if IE]>
+<base href=3D"file:///C:\6516CB12\bonjour_files\slide0001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<meta name=3DDescription content=3D"3/9/2009">
+<link rel=3DStylesheet href=3D"master03_stylesheet.css">
+<![if !ppt]>
+<style media=3Dprint>
+<!--.sld
+	{left:0px !important;
+	width:6.0in !important;
+	height:4.5in !important;
+	font-size:103% !important;}
+-->
+</style>
+<script><!--
+function LoadSld()
+{
+	var sld=3DGetObj("SlideObj")
+	if( !g_supportsPPTHTML ) {	=09
+		sld.style.visibility=3D"visible"
+		return
+	}
+
+	if( MakeNotesVis() ) return
+
+	runAnimations =3D _InitAnimations();
+=09
+	if( IsWin("PPTSld") )
+		parent.SldUpdated(GetSldId())
+	g_origSz=3DparseInt(SlideObj.style.fontSize)
+	g_origH=3Dsld.style.posHeight
+	g_origW=3Dsld.style.posWidth
+	g_scaleHyperlinks=3D(document.all.tags("AREA").length>0)
+	if( g_scaleHyperlinks )
+		InitHLinkArray()
+	if( g_scaleInFrame||(IsWin("PPTSld") && parent.IsFullScrMode() ) )
+		document.body.scroll=3D"no"
+	_RSW()
+	if( IsWin("PPTSld") && parent.IsFullScrMode() )
+		FullScrInit();
+=09
+	MakeSldVis();
+=09
+	if( runAnimations )
+	{
+		if( document.all("NSPlay") )
+			document.all("NSPlay").autoStart =3D false;
+
+		if( sld.filters && sld.filters.revealtrans )
+			setTimeout( "document.body.start()", sld.filters.revealtrans.duration * =
+1000 );
+		else
+			document.body.start();
+	}
+}
+
+function MakeSldVis()=20
+{
+	var fTrans=3Dg_showAnimation && SldHasTrans()
+	if( fTrans )=09
+	{
+		if( g_bgSound ) {
+			idx=3Dg_bgSound.indexOf(",");
+			pptSound.src=3Dg_bgSound.substr( 0, idx );
+			pptSound.loop=3D -(parseInt(g_bgSound.substr(idx+1)));
+		}
+		SlideObj.filters.revealtrans.Apply()=09
+    }
+	SlideObj.style.visibility=3D"visible"
+	if( fTrans )
+		SlideObj.filters.revealtrans.Play()
+}
+function MakeNotesVis()=20
+{
+	if( !IsNts() ) return false=20
+	SlideObj.style.display=3D"none"
+	nObj =3D document.all.item("NotesObj")
+	parent.SetHasNts(0)
+	if( nObj ) {=20
+		nObj.style.display=3D""
+		parent.SetHasNts(1)
+	}
+	return 1
+}
+function ChkAutoAdv()
+{
+	if(SldHasTrans())
+		SlideObj.onfilterchange=3DAutoAdv
+	else
+		AutoAdv()
+}
+function AutoAdv()
+{
+	if(!IsWin("PPTSld") || !gUseSldTimings )return
+	var sld=3DGetCurSld()
+	if( (sld.mAdvDelay>0) && !parent.IsFramesMode() )
+		setTimeout("parent.GoToNextSld()",sld.mAdvDelay)
+}
+function GetObj(id)
+{
+	if(g_supportsPPTHTML) return document.all(id);
+	else return document.getElementById(id);
+}
+function SldHasTrans() { return SlideObj.style.filter !=3D ""; }
+function GetSldId()=20
+{
+	var regExp =3D /file:\/\/\//i
+	var pos =3D location.href.search(regExp)
+	if (MHTMLPrefix !=3D "" && pos !=3D -1)
+		sId =3D location.href.substring(pos)
+	else
+	{
+		sId =3D RemoveFilePrefixFromHref(location.href);
+		var regExp =3D /\//
+		var fixedHref =3D sId
+		var pos =3D -1
+=09
+		pos =3D fixedHref.search(regExp)
+		while (pos !=3D -1)
+		{
+			fixedHref =3D fixedHref.replace(regExp, "\\")
+			pos =3D fixedHref.search(regExp)
+		}
+=09
+		if (g_fBaseHyperlink =3D=3D true)
+			sId =3D "file:///" + fixedHref;
+		else
+			sId =3D fixedHref.substring(fixedHref.lastIndexOf('\\') + 1)
+	}
+=09
+	return sId
+}
+function HideMenu() { if( frames["PPTSld"] && PPTSld.document.all.item("ctx=
+tmenu") && PPTSld.ctxtmenu.style.display!=3D"none" ) { PPTSld.ctxtmenu.styl=
+e.display=3D'none'; return true } return false }
+function IsWin( name ) { return window.name =3D=3D name }
+function IsNts() { return IsWin("PPTNts") }
+function IsSldOrNts() { return( IsWin("PPTSld")||IsWin("PPTNts") ) }
+function SupportsPPTAnimation() { return( navigator.platform =3D=3D "Win32"=
+ && navigator.appVersion.indexOf("Windows")>0 ) }
+function SupportsPPTHTML()
+{
+	var appVer=3Dnavigator.appVersion, msie=3DappVer.indexOf("MSIE "), ver=3D0
+	if( msie >=3D 0 )
+		ver=3DparseFloat( appVer.substring( msie+5, appVer.indexOf(";",msie) ) )
+	else
+		ver=3DparseInt(appVer)
+
+	return( ver >=3D 4 && msie >=3D 0 )
+}
+function _RSW()
+{
+	if( !g_supportsPPTHTML || IsNts() ||
+	  ( !g_scaleInFrame && (!IsWin("PPTSld") || !parent.IsFullScrMode()) ) )
+		return
+
+        var padding=3D0;
+        if( IsWin("PPTSld") && parent.IsFramesMode() ) padding=3D6
+
+	cltWidth=3Ddocument.body.clientWidth-padding
+	cltHeight=3Ddocument.body.clientHeight-padding
+	factor=3D(1.0*cltWidth)/g_origW
+	if( cltHeight < g_origH*factor )
+		factor=3D(1.0*cltHeight)/g_origH
+
+	newSize =3D g_origSz * factor
+	if( newSize < 1 ) newSize=3D1
+
+	s=3DSlideObj.style
+	s.fontSize=3DnewSize+"px"
+	s.posWidth=3Dg_origW*factor
+	s.posHeight=3Dg_origH*factor
+	s.posLeft=3D(cltWidth-s.posWidth+padding)/2
+	s.posTop=3D(cltHeight-s.posHeight+padding)/2
+
+	if( g_scaleHyperlinks )
+		ScaleHyperlinks( factor )
+}
+function _InitAnimations()
+{
+	animRuntimeInstalled =3D ''+document.body.localTime !=3D 'undefined';
+	isFullScreen =3D (window.name =3D=3D "PPTSld") && !parent.IsFramesMode();
+	g_animUseRuntime =3D g_showAnimation && animRuntimeInstalled && !(isFullSc=
+reen && parent.IsSldVisited());
+	if( g_animUseRuntime ) {
+		collSeq =3D document.all.tags("seq");
+		if( collSeq !=3D null ) {
+			for(ii=3D0;ii<collSeq.length;ii++) {
+				if( collSeq[ii].getAttribute( "p:nodeType" ) =3D=3D "mainSeq" ) {
+					g_animMainSequence =3D collSeq[ii];
+					break;
+				}
+			}
+		}
+=09
+		if( g_animItemsToHide && document.body.playAnimations !=3D false ) {
+			for(jj =3D 0; jj < g_animItemsToHide.length; jj++) {
+				if( hideObj =3D GetObj(g_animItemsToHide[jj]) )
+					hideObj.runtimeStyle.visibility=3D"hidden";
+			}
+		}
+
+		if( g_animInteractiveItems ){
+			for(jj =3D 0; jj < g_animInteractiveItems.length; jj++) {
+				if( triggerObj =3D GetObj(g_animInteractiveItems[jj]) )
+					triggerObj.runtimeStyle.cursor=3D"hand";
+			}
+		}
+	=09
+		if( gUseSldTimings && ''+g_animSlideTime !=3D 'undefined' ) {
+			adjustedTime =3D document.body.calculateAutoAdvanceTimes( g_animSlideTim=
+e, g_animEffectTimings );
+			if( IsWin("PPTSld") && adjustedTime !=3D g_animSlideTime ) {
+			   var sld =3D GetCurSld();
+			   sld.mAdvDelay =3D adjustedTime * 1000;
+			}
+		}
+	}
+
+	return g_animUseRuntime;
+}
+
+
+var g_supportsPPTHTML =3D SupportsPPTHTML(), g_scaleInFrame =3D 1, gId=3D""=
+, g_bgSound=3D"",
+    g_scaleHyperlinks =3D false, g_allowAdvOnClick =3D 1, g_showInBrowser =
+=3D 0, gLoopCont =3D 0, gUseSldTimings =3D 1;
+var g_showAnimation =3D g_supportsPPTHTML && SupportsPPTAnimation() && g_sh=
+owInBrowser;
+var g_animManager =3D null;
+var g_animUseRuntime =3D false;
+var g_animItemsToHide, g_animInteractiveItems, g_animSlideTime;
+var g_animMainSequence =3D null;
+
+//--></script><!--[if vml]><script>g_vml =3D 1;
+</script><![endif]--><![endif]><o:shapelayout v:ext=3D"edit">
+ <o:idmap v:ext=3D"edit" data=3D"2"/>
+</o:shapelayout>
+</head>
+
+<body lang=3DEN-US style=3D'margin:0px;background-color:white' onresize=3D"=
+_RSW()"
+onload=3D"LoadSld()">
+
+<div id=3DSlideObj class=3Dsld style=3D'position:absolute;top:0px;left:0px;
+width:554px;height:415px;font-size:16px;background-color:white;clip:rect(0%=
+, 101%, 101%, 0%);
+visibility:hidden'><p:slide coordsize=3D"720,540"
+ colors=3D"#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"
+ masterhref=3D"master03.xml">
+ <p:shaperange href=3D"master03.xml#_x0000_s1025"/><![if !ppt]><p:shaperange
+  href=3D"master03.xml#_x0000_s1028"/><p:shaperange
+  href=3D"master03.xml#_x0000_s1029"/><![endif]><v:shapetype id=3D"_x0000_t=
+202"
+  coordsize=3D"21600,21600" o:spt=3D"202" path=3D"m,l,21600r21600,l21600,xe=
+">
+  <v:stroke joinstyle=3D"miter"/>
+  <v:path gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+ </v:shapetype><v:shape id=3D"_x0000_s2052" type=3D"#_x0000_t202" style=3D'=
+position:absolute;
+  left:198pt;top:48pt;width:291.5pt;height:28.875pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:shape id=3D"_x0000_s2053" type=3D"#_x0000_t202" style=3D'posi=
+tion:absolute;
+  left:162pt;top:186pt;width:151.875pt;height:28.875pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:shape id=3D"_x0000_s2054" type=3D"#_x0000_t202" style=3D'posi=
+tion:absolute;
+  left:396pt;top:186pt;width:134.625pt;height:28.875pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:shape id=3D"_x0000_s2055" type=3D"#_x0000_t202" style=3D'posi=
+tion:absolute;
+  left:564pt;top:156pt;width:133.625pt;height:28.875pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:shape id=3D"_x0000_s2057" type=3D"#_x0000_t202" style=3D'posi=
+tion:absolute;
+  left:210pt;top:270pt;width:90.5pt;height:28.875pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:shape id=3D"_x0000_s2058" type=3D"#_x0000_t202" style=3D'posi=
+tion:absolute;
+  left:402pt;top:264pt;width:14.5pt;height:28.875pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:shape id=3D"_x0000_s2059" type=3D"#_x0000_t202" style=3D'posi=
+tion:absolute;
+  left:94.75pt;top:272.875pt;width:57.5pt;height:28.875pt;mso-wrap-style:no=
+ne;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:shape id=3D"_x0000_s2060" type=3D"#_x0000_t202" style=3D'posi=
+tion:absolute;
+  left:516pt;top:270pt;width:90.5pt;height:28.875pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:line id=3D"_x0000_s2061" style=3D'position:absolute;flip:x' f=
+rom=3D"132pt,222pt"
+  to=3D"204pt,270pt" coordsize=3D"21600,21600" strokecolor=3D"black [1]">
+  <v:shadow color=3D"gray [2]"/>
+ </v:line><v:line id=3D"_x0000_s2062" style=3D'position:absolute' from=3D"2=
+04pt,222pt"
+  to=3D"246pt,264pt" coordsize=3D"21600,21600" strokecolor=3D"black [1]">
+  <v:shadow color=3D"gray [2]"/>
+ </v:line><![if !vml]><img border=3D0 v:shapes=3D"_x0000_s2061,_x0000_s2062"
+ src=3D"slide0001_image001.gif" style=3D'position:absolute;top:40.96%;left:=
+18.23%;
+ width:16.24%;height:9.39%'><![endif]>
+ <div v:shape=3D"_x0000_s2052" class=3DO style=3D'position:absolute;top:9.8=
+7%;
+ left:28.51%;width:46.38%;height:3.85%'>Theories of Epistemic Justification=
+ </div>
+ <div v:shape=3D"_x0000_s2053" class=3DO style=3D'position:absolute;top:35.=
+42%;
+ left:23.46%;width:23.1%;height:3.85%'>Rationalism<span
+ style=3D'mso-spacerun:yes'>&nbsp; </span><span style=3D'font-size:78%;colo=
+r:#333399;
+ mso-color-index:5'>(Yes)</span></div>
+ <div v:shape=3D"_x0000_s2054" class=3DO style=3D'position:absolute;top:35.=
+42%;
+ left:55.95%;width:20.21%;height:3.85%'>Empiricism <span style=3D'font-size=
+:78%;
+ color:#333399;mso-color-index:5'>(No)</span></div>
+ <div v:shape=3D"_x0000_s2055" class=3DO style=3D'position:absolute;top:29.=
+87%;
+ left:79.42%;width:20.03%;height:3.85%'>Skepticism <span style=3D'font-size=
+:78%;
+ color:#333399;mso-color-index:5'>(No)</span></div>
+ <div v:shape=3D"_x0000_s2057" class=3DO style=3D'position:absolute;top:50.=
+84%;
+ left:30.14%;width:12.81%;height:3.85%'><span style=3D'color:red'>Moderate<=
+/span></div>
+ <div v:shape=3D"_x0000_s2059" class=3DO style=3D'position:absolute;top:51.=
+32%;
+ left:14.07%;width:7.4%;height:3.85%'>Pure </div>
+ <div v:shape=3D"_x0000_s2060" class=3DO style=3D'position:absolute;top:50.=
+84%;
+ left:72.74%;width:12.81%;height:3.85%'>Moderate</div>
+ <v:line id=3D"_x0000_s2063" style=3D'position:absolute;flip:x' from=3D"438=
+pt,3in"
+  to=3D"450pt,264pt" coordsize=3D"21600,21600" strokecolor=3D"black [1]">
+  <v:shadow color=3D"gray [2]"/>
+ </v:line><v:line id=3D"_x0000_s2064" style=3D'position:absolute' from=3D"4=
+50pt,3in"
+  to=3D"528pt,264pt" coordsize=3D"21600,21600" strokecolor=3D"black [1]">
+  <v:shadow color=3D"gray [2]"/>
+ </v:line><![if !vml]><img border=3D0 v:shapes=3D"_x0000_s2063,_x0000_s2064"
+ src=3D"slide0001_image002.gif" style=3D'position:absolute;top:40.0%;left:6=
+0.83%;
+ width:12.81%;height:9.39%'><![endif]><v:line id=3D"_x0000_s2065" style=3D'=
+position:absolute;
+  flip:x' from=3D"234pt,132pt" to=3D"330pt,180pt" coordsize=3D"21600,21600"
+  strokecolor=3D"black [1]">
+  <v:shadow color=3D"gray [2]"/>
+ </v:line><v:line id=3D"_x0000_s2066" style=3D'position:absolute' from=3D"3=
+30pt,132pt"
+  to=3D"438pt,180pt" coordsize=3D"21600,21600" strokecolor=3D"black [1]">
+  <v:shadow color=3D"gray [2]"/>
+ </v:line><v:line id=3D"_x0000_s2067" style=3D'position:absolute' from=3D"3=
+30pt,132pt"
+  to=3D"606pt,156pt" coordsize=3D"21600,21600" strokecolor=3D"black [1]">
+  <v:shadow color=3D"gray [2]"/>
+ </v:line><v:shape id=3D"_x0000_s2068" type=3D"#_x0000_t202" style=3D'posit=
+ion:absolute;
+  left:198pt;top:84pt;width:307.625pt;height:24pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><v:shape id=3D"_x0000_s2069" type=3D"#_x0000_t202" style=3D'posi=
+tion:absolute;
+  left:390pt;top:270pt;width:74.5pt;height:28.875pt;mso-wrap-style:none;
+  v-text-anchor:top-baseline' filled=3D"f" fillcolor=3D"#bbe0e3 [4]" stroke=
+d=3D"f"
+  strokecolor=3D"black [1]">
+  <v:fill color2=3D"white [0]"/>
+  <v:shadow color=3D"gray [2]"/>
+  <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+ </v:shape><![if !vml]><img border=3D0
+ v:shapes=3D"_x0000_s2065,_x0000_s2066,_x0000_s2067" src=3D"slide0001_image=
+003.gif"
+ style=3D'position:absolute;top:24.33%;left:32.49%;width:51.98%;height:9.39=
+%'><![endif]>
+ <div v:shape=3D"_x0000_s2068" class=3DO style=3D'position:absolute;top:16.=
+38%;
+ left:28.51%;width:49.09%;height:3.13%'><span style=3D'font-size:78%;color:=
+#333399;
+ mso-color-index:5'>(Is there genuine synthetic a priori knowledge?)</span>=
+</div>
+ <div v:shape=3D"_x0000_s2069" class=3DO style=3D'position:absolute;top:50.=
+84%;
+ left:55.23%;width:10.1%;height:3.85%'>Radical</div>
+</p:slide></div>
+
+</body>
+
+</html>
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/master03_stylesheet.css
+Content-Transfer-Encoding: base64
+Content-Type: text/css
+
+Ym9keQ0KCXt3aWR0aDo1NTRweDsNCgloZWlnaHQ6NDE1cHg7fQ0KLlRCDQoJe21zby1zcGVjaWFs
+LWZvcm1hdDpub2J1bGxldFwyMDIyO30NCi5UDQoJe3RleHQtYWxpZ246Y2VudGVyOw0KCWZvbnQt
+ZmFtaWx5OkFyaWFsOw0KCWNvbG9yOmJsYWNrOw0KCW1zby1jb2xvci1pbmRleDozOw0KCWZvbnQt
+c2l6ZToyMjAlOw0KCW1zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVyZmxvdzoxO30N
+Ci5CQg0KCXttc28tc3BlY2lhbC1mb3JtYXQ6YnVsbGV0XDIwMjI7fQ0KLkINCgl7dGV4dC1hbGln
+bjpsZWZ0Ow0KCWZvbnQtZmFtaWx5OkFyaWFsOw0KCWNvbG9yOmJsYWNrOw0KCW1zby1jb2xvci1p
+bmRleDoxOw0KCWZvbnQtc2l6ZToxNjAlOw0KCW1zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29r
+dS1vdmVyZmxvdzoxO30NCi5CMUINCgl7bXNvLXNwZWNpYWwtZm9ybWF0OmJ1bGxldFwyMDEzO30N
+Ci5CMQ0KCXt0ZXh0LWFsaWduOmxlZnQ7DQoJZm9udC1mYW1pbHk6QXJpYWw7DQoJY29sb3I6Ymxh
+Y2s7DQoJbXNvLWNvbG9yLWluZGV4OjE7DQoJZm9udC1zaXplOjE0MCU7DQoJbXNvLWNoYXItd3Jh
+cDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLkIyQg0KCXttc28tc3BlY2lhbC1mb3Jt
+YXQ6YnVsbGV0XDIwMjI7fQ0KLkIyDQoJe3RleHQtYWxpZ246bGVmdDsNCglmb250LWZhbWlseTpB
+cmlhbDsNCgljb2xvcjpibGFjazsNCgltc28tY29sb3ItaW5kZXg6MTsNCglmb250LXNpemU6MTIw
+JTsNCgltc28tY2hhci13cmFwOjE7DQoJbXNvLWtpbnNva3Utb3ZlcmZsb3c6MTt9DQouQjNCDQoJ
+e21zby1zcGVjaWFsLWZvcm1hdDpidWxsZXRcMjAxMzt9DQouQjMNCgl7dGV4dC1hbGlnbjpsZWZ0
+Ow0KCWZvbnQtZmFtaWx5OkFyaWFsOw0KCWNvbG9yOmJsYWNrOw0KCW1zby1jb2xvci1pbmRleDox
+Ow0KCWZvbnQtc2l6ZToxMDAlOw0KCW1zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVy
+ZmxvdzoxO30NCi5CNEINCgl7bXNvLXNwZWNpYWwtZm9ybWF0OmJ1bGxldFwwMEJCO30NCi5CNA0K
+CXt0ZXh0LWFsaWduOmxlZnQ7DQoJZm9udC1mYW1pbHk6QXJpYWw7DQoJY29sb3I6YmxhY2s7DQoJ
+bXNvLWNvbG9yLWluZGV4OjE7DQoJZm9udC1zaXplOjEwMCU7DQoJbXNvLWNoYXItd3JhcDoxOw0K
+CW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLk4NCgl7bXNvLWNoYXItd3JhcDoxOw0KCW1zby1r
+aW5zb2t1LW92ZXJmbG93OjE7fQ0KLk4xDQoJe21zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29r
+dS1vdmVyZmxvdzoxO30NCi5OMg0KCXttc28tY2hhci13cmFwOjE7DQoJbXNvLWtpbnNva3Utb3Zl
+cmZsb3c6MTt9DQouTjMNCgl7bXNvLWNoYXItd3JhcDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93
+OjE7fQ0KLk40DQoJe21zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVyZmxvdzoxO30N
+Ci5PQg0KCXttc28tc3BlY2lhbC1mb3JtYXQ6bm9idWxsZXRcMjAyMjt9DQouTw0KCXt0ZXh0LWFs
+aWduOmxlZnQ7DQoJZm9udC1mYW1pbHk6QXJpYWw7DQoJY29sb3I6YmxhY2s7DQoJbXNvLWNvbG9y
+LWluZGV4OjE7DQoJZm9udC1zaXplOjkwJTsNCgltc28tY2hhci13cmFwOjE7DQoJbXNvLWtpbnNv
+a3Utb3ZlcmZsb3c6MTt9DQouTzENCgl7bXNvLWNoYXItd3JhcDoxOw0KCW1zby1raW5zb2t1LW92
+ZXJmbG93OjE7fQ0KLk8yDQoJe21zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVyZmxv
+dzoxO30NCi5PMw0KCXttc28tY2hhci13cmFwOjE7DQoJbXNvLWtpbnNva3Utb3ZlcmZsb3c6MTt9
+DQouTzQNCgl7bXNvLWNoYXItd3JhcDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLkNC
+DQoJe21zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVyZmxvdzoxO30NCi5DQjENCgl7
+bXNvLWNoYXItd3JhcDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLkNCMg0KCXttc28t
+Y2hhci13cmFwOjE7DQoJbXNvLWtpbnNva3Utb3ZlcmZsb3c6MTt9DQouQ0IzDQoJe21zby1jaGFy
+LXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVyZmxvdzoxO30NCi5DQjQNCgl7bXNvLWNoYXItd3Jh
+cDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLkNUDQoJe21zby1jaGFyLXdyYXA6MTsN
+Cgltc28ta2luc29rdS1vdmVyZmxvdzoxO30NCi5IQg0KCXttc28tY2hhci13cmFwOjE7DQoJbXNv
+LWtpbnNva3Utb3ZlcmZsb3c6MTt9DQouSEIxDQoJe21zby1jaGFyLXdyYXA6MTsNCgltc28ta2lu
+c29rdS1vdmVyZmxvdzoxO30NCi5IQjINCgl7bXNvLWNoYXItd3JhcDoxOw0KCW1zby1raW5zb2t1
+LW92ZXJmbG93OjE7fQ0KLkhCMw0KCXttc28tY2hhci13cmFwOjE7DQoJbXNvLWtpbnNva3Utb3Zl
+cmZsb3c6MTt9DQouSEI0DQoJe21zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVyZmxv
+dzoxO30NCi5RQg0KCXttc28tY2hhci13cmFwOjE7DQoJbXNvLWtpbnNva3Utb3ZlcmZsb3c6MTt9
+DQouUUIxDQoJe21zby1jaGFyLXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVyZmxvdzoxO30NCi5R
+QjINCgl7bXNvLWNoYXItd3JhcDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLlFCMw0K
+CXttc28tY2hhci13cmFwOjE7DQoJbXNvLWtpbnNva3Utb3ZlcmZsb3c6MTt9DQouUUI0DQoJe21z
+by1jaGFyLXdyYXA6MTsNCgltc28ta2luc29rdS1vdmVyZmxvdzoxO30NCi5UYmwNCgl7bXNvLWNo
+YXItd3JhcDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLlRibDENCgl7bXNvLWNoYXIt
+d3JhcDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLlRibDINCgl7bXNvLWNoYXItd3Jh
+cDoxOw0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLlRibDMNCgl7bXNvLWNoYXItd3JhcDox
+Ow0KCW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLlRibDQNCgl7bXNvLWNoYXItd3JhcDoxOw0K
+CW1zby1raW5zb2t1LW92ZXJmbG93OjE7fQ0KLmRlZmF1bHRCDQoJe21zby1zcGVjaWFsLWZvcm1h
+dDpub2J1bGxldFwyMDIyO30NCi5kZWZhdWx0DQoJe3RleHQtYWxpZ246bGVmdDsNCglmb250LWZh
+bWlseTpBcmlhbDsNCglmb250LXdlaWdodDpub3JtYWw7DQoJZm9udC1zdHlsZTpub3JtYWw7DQoJ
+dGV4dC1kZWNvcmF0aW9uOm5vbmU7DQoJdGV4dC1zaGFkb3c6bm9uZTsNCgl0ZXh0LWVmZmVjdDpu
+b25lOw0KCW1zby1mYXJlYXN0LWhpbnQ6bm87DQoJbGF5b3V0LWZsb3c6aG9yaXpvbnRhbDsNCglj
+b2xvcjpibGFjazsNCgltc28tY29sb3ItaW5kZXg6MTsNCglmb250LXNpemU6OTAlOw0KCW1zby10
+ZXh0LXJhaXNlOjAlOw0KCW1zby1saW5lLXNwYWNpbmc6IjEwMCAwIDAiOw0KCW1zby1tYXJnaW4t
+bGVmdC1hbHQ6MDsNCgltc28tdGV4dC1pbmRlbnQtYWx0OjA7DQoJbXNvLWNoYXItd3JhcDoxOw0K
+CW1zby1raW5zb2t1LW92ZXJmbG93OjE7DQoJZGlyZWN0aW9uOmx0cjsNCgltc28td29yZC13cmFw
+OjE7DQoJbXNvLXZlcnRpY2FsLWFsaWduLXNwZWNpYWw6YmFzZWxpbmU7DQoJbXNvLWFuc2ktbGFu
+Z3VhZ2U6RU4tVVM7fQ0KYTpsaW5rDQoJe2NvbG9yOiMwMDk5OTkgIWltcG9ydGFudDt9DQphOmFj
+dGl2ZQ0KCXtjb2xvcjojMzMzMzk5ICFpbXBvcnRhbnQ7fQ0KYTp2aXNpdGVkDQoJe2NvbG9yOiM5
+OUNDMDAgIWltcG9ydGFudDt9DQp=
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/slide0001_image001.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlhWgAnAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAABY
+ACYAgAAAAAAAAAKLhI+py+3hopy0Rgit3lyGDIDdSFaicZbqGqYoC5cuMsc28031zYfW3mPlNMAg
+qdhAGn/K5FIIfY6GUSmR17RSb9lll/PlhsFWXPl1Ro1l6fXKzUwv4Dq5s7e1K+hzvSeW52f2Jmgi
+w6c1VUhGhCiX5aiHFLjIeFdJOBeJmbKJuef5SSMaREmaecpTAAA7
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/slide0001_image002.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlhRwAnAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAABF
+ACUAgAAAAAAAAAKChH8RyO0Po2wLqImzjtX0DYbQZ5HiCZoWym6q97ayJ13znWAxHu6IzUP5KMPg
+o0gx9k5A5QR5dD5lTSkDWsNSeVpWN2ulKavBr8asC5NnaFc5/Gtf4Ve5mP7b4uvC/fFrx7bkN4IV
+iIN0yDWkWLbTaBQDGWky6dRkKdWRqbnAaRVQAAA7
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/slide0001_image003.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlhIAEnAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAe
+ASYAgAAAAAAAAAL/hI+py+2/gpwB2ouz3rz7D4biJhmlSaXVyLbuC8cyeyLTo6rzzvf+D6sxhJpc
+CohMKpcjosMpMt6Y1KqVB4VkY9Lp9QsOJ7YXL7W7EqvX3HTUrUbD2fS6gvzB09H2/lcfAuh3IDdo
++CLYlHgY0cX4iDP3swipxVdpR9mGieXIuaS5E/oZeElKI/k3eoroyWo5uPra6fopC5o6W2e6m+tn
+potZeObLeBucKSVaXHmM/EzCbCsNXe3hHIttba1tTL0NPvYN3R3OWT5tri6+jgHc/oyOLA9/RU8+
+Xp+sX8ovnO+vwbuAbO7pM0gQBEJ/CxNmaEgQokOBACd2GGhRhsSMFig4ztjokVDFkBRJMgG5bqTJ
+FipXFgAAOw==
+
+------=_NextPart_01C9A0A1.ACA6EF50
+Content-Location: file:///C:/6516CB12/bonjour_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../bonjour.htm"/>
+ <o:File HRef=3D"master03.htm"/>
+ <o:File HRef=3D"master03.xml"/>
+ <o:File HRef=3D"preview.wmf"/>
+ <o:File HRef=3D"pres.xml"/>
+ <o:File HRef=3D"slide0001.htm"/>
+ <o:File HRef=3D"slide0001_image001.gif"/>
+ <o:File HRef=3D"slide0001_image002.gif"/>
+ <o:File HRef=3D"slide0001_image003.gif"/>
+ <o:File HRef=3D"master03_stylesheet.css"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01C9A0A1.ACA6EF50--

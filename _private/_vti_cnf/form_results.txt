@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|04 Dec 2003 16:44:07 -0000
+vti_extenderversion:SR|4.0.2.7802
+vti_nexttolasttimemodified:TR|04 Dec 2003 16:44:07 -0000
+vti_author:SR|UST\\emlarson
+vti_nosourcecontrol:SR|True
+vti_modifiedby:SR|UST\\emlarson
+vti_timecreated:TR|04 Dec 2003 16:44:07 -0000
+vti_cacheddtm:TX|04 Dec 2003 16:44:07 -0000
+vti_filesize:IR|0
+vti_backlinkinfo:VX|comments2.htm
